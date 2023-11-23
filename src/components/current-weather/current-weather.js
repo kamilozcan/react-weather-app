@@ -11,6 +11,7 @@ export const CurrentWeather = () => {
         </div>
         <img className="weather-icon" src="icon/01d.png" alt="weather" />
       </div>
+      
     </div>
   );
 };
